@@ -1,2 +1,2 @@
 # realjoyschool
-Website for real joy school
+Website for RealJoy school
